@@ -9,9 +9,9 @@ NODEMON: which allows me to keep my server UP, listening every single change, an
 
 
 
-BABEL: cli, preset/env, core and polyfill. together they allows you to write the newest JavaScript code, enlabling browser compatibilty with every "older" web browser, I just used the command "BUILD", which
-re write the entire code into older JavaScript code, and deploys it at a new folder called DIST.
+BABEL: cli, preset/env, core and polyfill. together they allow you to write the newest JavaScript code, enabling browser compatibilty with every "older" web browser, I just used the command "BUILD", which
+re write the entire code into an older JavaScript code, and deploys it at a new folder called DIST (you can pick whatever name you desire).
 
 
 
-MONGODB: Instead of using Mongoose, I decided to use this modulo for doing my CRUD, just because I need to practice my knowledge.
+MONGODB: Instead of using Mongoose, I decided to use this module for doing my CRUD, just because I need to practice my knowledge.
