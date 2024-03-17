@@ -1,6 +1,6 @@
 Hello you curious!!
 
-This is a easy and simple CRUD tasks REST-API, using Node.js and Express framewokr, I just added MongoDB by using it`s function "CONNECT" (not mongoose). I have created a server which listens on PORT 3000
+This is an easy and simple CRUD tasks REST-API, using Node.js and Express framewokr, I just added MongoDB by using it`s function "CONNECT" (not mongoose). I have created a server which listens on PORT 3000
 and have used packages from NPM like:
 
 
